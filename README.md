@@ -9,8 +9,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ## Table of Contents
 
-</aside>
-
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- |:---------------:|:-------------------------:|
 | **[Introductory Rooms](#intro-rooms)**            | **10**          | **10**                    |
