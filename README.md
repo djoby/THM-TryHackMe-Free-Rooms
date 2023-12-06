@@ -13,10 +13,10 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- |:---------------:|:-------------------------:|
-| **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
+| **[Introductory Rooms](#intro-rooms)**            | **10**          | **10**                    |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           | **5**                     |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basics-rooms)**                   | **9**           |                           |
+| **[Basic Rooms](#basics-rooms)**                  | **9**           |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
@@ -39,7 +39,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         | **38**          |                           |
 | **[Misc](#misc)**                                 | **35**          |                           |
 | **[Special Events](#special-events)**             | **9**           |                           |
-| **Total Rooms:**                                  | **= 378**       |                           |
+| **Total Rooms:**                                  | **= 378**       | **= 15**                  |
 
 ## Intro Rooms
 
