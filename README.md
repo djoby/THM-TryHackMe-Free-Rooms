@@ -1,13 +1,13 @@
 # TryHackMe Free Rooms
 ---
 
-<br/>
-
 Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning.
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
+
 ## Table of Contents
+---
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- |:---------------:|:-------------------------:|
@@ -40,7 +40,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **Total Rooms:**                                  | **= 378**       | **= 15**                  |
 
 ## Intro Rooms
-
 ---
 
 * [Welcome](https://tryhackme.com/room/hello)
@@ -64,7 +63,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
-
 ---
 
 * [Learn Linux](https://tryhackme.com/room/zthlinux)
@@ -78,7 +76,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
-
 ---
 
 * [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
@@ -88,7 +85,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
-
 ---
 
 * [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
@@ -110,7 +106,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [UltraTech](https://tryhackme.com/room/ultratech1)
 
 ## Recon
-
 ---
 
 * [Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
@@ -134,7 +129,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
-
 ---
 
 * [Python Basics](https://tryhackme.com/room/pythonbasics)
@@ -154,7 +148,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
-
 ---
 
 * [Introductory Networking](https://tryhackme.com/room/introtonetworking)
@@ -172,7 +165,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
-
 ---
 
 * [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
@@ -210,7 +202,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Crypto & Hashes
-
 ---
 
 * [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
@@ -224,7 +215,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Brute It](https://tryhackme.com/room/bruteit)
 
 ## Steganography
-
 ---
 
 * [CC: Steganography](https://tryhackme.com/room/ccstego)
@@ -240,7 +230,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
-
 ---
 
 * [HTTP in detail](https://tryhackme.com/room/webfundamentals)
@@ -298,13 +287,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Bolt](https://tryhackme.com/room/bolt)
 
 ## Android
-
 ---
 
 * [Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
-
 ---
 
 * [Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
@@ -318,13 +305,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
-
 ---
 
 * [Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
-
 ---
 
 * [Intro to x86-64](https://tryhackme.com/room/introtox8664)
@@ -350,7 +335,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [REloaded](https://tryhackme.com/room/reloaded)
 
 ## Malware Analysis
-
 ---
 
 * [History of Malware](https://tryhackme.com/room/historyofmalware)
@@ -368,7 +352,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
 ## PrivEsc
-
 ---
 
 * [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
@@ -398,7 +381,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
-
 ---
 
 * [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
@@ -416,7 +398,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
-
 ---
 
 * [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
@@ -430,7 +411,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [RazorBlack](https://tryhackme.com/room/raz0rblack)
 
 ## PCAP Analysis
-
 ---
 
 * [h4cked](https://tryhackme.com/room/h4cked)
@@ -442,7 +422,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## BufferOverflow
-
 ---
 
 * [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
@@ -454,7 +433,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
-
 ---
 
 * [GamingServer](https://tryhackme.com/room/gamingserver)
@@ -574,7 +552,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
-
 ---
 
 - [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
@@ -724,7 +701,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [Road](https://tryhackme.com/room/road)
 
 ## Hard CTF
-
 ---
 
 - [Motunui](https://tryhackme.com/room/motunui)
@@ -804,7 +780,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [Shaker](https://tryhackme.com/room/shaker)
 
 ## Misc
-
 ---
 
 - [Introduction to Django](https://tryhackme.com/room/django)
@@ -878,7 +853,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [The find command](https://tryhackme.com/room/thefindcommand)
 
 ## Special Events
-
 ---
 
 - [25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
