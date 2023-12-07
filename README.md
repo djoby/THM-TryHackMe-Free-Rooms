@@ -16,7 +16,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |
 | **[Basic Rooms](#basics-rooms)**                  | **9**           |
 | **[Reconnaissance](#recon)**                      | **10**          |
-| **[Scripting](#scripting)**                       | **8**           |
+| **[Scripting](#scripting)**                       | **7**           |
 | **[Networking](#networking)**                     | **7**           |
 | **[Tooling](#tooling)**                           | **17**          |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |
@@ -144,8 +144,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 * [Learn Rust](https://tryhackme.com/room/rust)
-
-* [Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 ---
