@@ -16,7 +16,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |
 | **[Basic Rooms](#basics-rooms)**                  | **9**           |
 | **[Reconnaissance](#recon)**                      | **10**          |
-| **[Scripting](#scripting)**                       | **7**           |
+| **[Scripting](#scripting)**                       | **6**           |
 | **[Networking](#networking)**                     | **7**           |
 | **[Tooling](#tooling)**                           | **17**          |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |
@@ -34,7 +34,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Buffer Overflow](#bufferoverflow)**            | **4**           |
 | **[Easy CTF](#easy-ctf)**                         | **58**          |
 | **[Medium CTF](#medium-ctf)**                     | **73**          |
-| **[Hard CTF](#hard-ctf)**                         | **38**          |
+| **[Hard CTF](#hard-ctf)**                         | **39**          |
 | **[Misc](#misc)**                                 | **35**          |
 | **[Special Events](#special-events)**             | **9**           |
 | **Total Rooms:**                                  | **= 378**       |
@@ -132,8 +132,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 ---
 
 * [Python Basics](https://tryhackme.com/room/pythonbasics)
-
-* [Python Playground](https://tryhackme.com/room/pythonplayground)
 
 * [Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
@@ -700,7 +698,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ## Hard CTF
 ---
-
+- [Python Playground](https://tryhackme.com/room/pythonplayground)
+  
 - [Motunui](https://tryhackme.com/room/motunui)
 
 - [Spring](https://tryhackme.com/room/spring)
