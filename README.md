@@ -1,7 +1,7 @@
 # TryHackMe Free Rooms
 ---
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning.\
+Hey Guys, here is a list of **500+ Free TryHackMe rooms** to start learning.\
 All the rooms mentioned here are absolute free. ENJOY!!
 
 *Original idea from [rng70](https://github.com/rng70) and [Bornunique911](https://github.com/Bornunique911).*\
