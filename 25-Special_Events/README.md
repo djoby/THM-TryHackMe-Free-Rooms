@@ -1,0 +1,21 @@
+## Special Events
+---
+
+* [25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
+
+* [Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
+
+* [Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
+
+* [Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
+
+* [Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
+
+* [Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
+
+* [Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
+
+* [Learn and win prizes](https://tryhackme.com/room/tickets1)
+
+* [Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+

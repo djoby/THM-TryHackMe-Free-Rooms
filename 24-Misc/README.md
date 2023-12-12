@@ -1,0 +1,73 @@
+## Misc
+---
+
+* [Introduction to Django](https://tryhackme.com/room/django)
+
+* [Git Happens](https://tryhackme.com/room/githappens)
+
+* [Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
+
+* [Splunk](https://tryhackme.com/room/bpsplunk)
+
+* [Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
+
+* [Jupyter 101](https://tryhackme.com/room/jupyter101)
+
+* [Geolocating Images](https://tryhackme.com/room/geolocatingimages)
+
+* [Tor](https://tryhackme.com/room/torforbeginners)
+
+* [tomghost](https://tryhackme.com/room/tomghost)
+
+* [DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
+
+* [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
+
+* [Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
+
+* [Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
+
+* [Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
+
+* [DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
+
+* [Introduction to Flask](https://tryhackme.com/room/flask)
+
+* [MITRE](https://tryhackme.com/room/mitre)
+
+* [magician](https://tryhackme.com/room/magician)
+
+* [JPGChat](https://tryhackme.com/room/jpgchat)
+
+* [Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
+
+* [CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
+
+* [Binary Heaven](https://tryhackme.com/room/binaryheaven)
+
+* [Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
+
+* [Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
+
+* [Hip Flask](https://tryhackme.com/room/hipflask)
+
+* [Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
+
+* [Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447)
+
+* [Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
+
+* [REvil Corp](https://tryhackme.com/room/revilcorp)
+
+* [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+
+* [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+
+* [Solar, exploiting log4j](https://tryhackme.com/room/solar)
+
+* [Conti](https://tryhackme.com/room/contiransomwarehgh)
+
+* [Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
+
+* [The find command](https://tryhackme.com/room/thefindcommand)
+

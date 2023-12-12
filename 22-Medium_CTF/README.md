@@ -1,0 +1,149 @@
+## Medium CTF
+---
+
+* [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+
+* [GoldenEye](https://tryhackme.com/room/goldeneye)
+
+* [StuxCTF](https://tryhackme.com/room/stuxctf)
+
+* [Boiler CTF](https://tryhackme.com/room/boilerctf2)
+
+* [HA Joker CTF](https://tryhackme.com/room/jokerctf)
+
+* [Biohazard](https://tryhackme.com/room/biohazard)
+
+* [Break it](https://tryhackme.com/room/breakit)
+
+* [Willow](https://tryhackme.com/room/willow)
+
+* [The Marketplace](https://tryhackme.com/room/marketplace)
+
+* [Nax](https://tryhackme.com/room/nax)
+
+* [Mindgames](https://tryhackme.com/room/mindgames)
+
+* [Anonymous](https://tryhackme.com/room/anonymous)
+
+* [Blog](https://tryhackme.com/room/blog)
+
+* [Wonderland](https://tryhackme.com/room/wonderland)
+
+* [0day](https://tryhackme.com/room/0day)
+
+* [Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
+
+* [CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
+
+* [CMesS](https://tryhackme.com/room/cmess)
+
+* [Deja Vu](https://tryhackme.com/room/dejavu)
+
+* [hackerNote](https://tryhackme.com/room/hackernote)
+
+* [dogcat](https://tryhackme.com/room/dogcat)
+
+* [ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
+
+* [KoTH Hackers](https://tryhackme.com/room/kothhackers)
+
+* [Revenge](https://tryhackme.com/room/revenge)
+
+* [harder](https://tryhackme.com/room/harder)
+
+* [HaskHell](https://tryhackme.com/room/haskhell)
+
+* [Undiscovered](https://tryhackme.com/room/undiscoveredup)
+
+* [Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
+
+* [The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
+
+* [Looking Glass](https://tryhackme.com/room/lookingglass)
+
+* [Recovery](https://tryhackme.com/room/recovery)
+
+* [Relevant](https://tryhackme.com/room/relevant)
+
+* [Ghizer](https://tryhackme.com/room/ghizerctf)
+
+* [Mnemonic](https://tryhackme.com/room/mnemonic)
+
+* [WWBuddy](https://tryhackme.com/room/wwbuddy)
+
+* [The Blob Blog](https://tryhackme.com/room/theblobblog)
+
+* [Cooctus Stories](https://tryhackme.com/room/cooctusadventures)
+
+* [One Piece](https://tryhackme.com/room/ctfonepiece65)
+
+* [toc2](https://tryhackme.com/room/toc2)
+
+* [NerdHerd](https://tryhackme.com/room/nerdherd)
+
+* [Kubernetes Chall TDI 2020](https://tryhackme.com/room/kuberneteschalltdi2020)
+
+* [The Server From Hell](https://tryhackme.com/room/theserverfromhell)
+
+* [Jacob the Boss](https://tryhackme.com/room/jacobtheboss)
+
+* [Unbaked Pie](https://tryhackme.com/room/unbakedpie)
+
+* [Bookstore](https://tryhackme.com/room/bookstoreoc)
+
+* [Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)
+
+* [battery](https://tryhackme.com/room/battery)
+
+* [Madeye&#39;s Castle](https://tryhackme.com/room/madeyescastle)
+
+* [En-pass](https://tryhackme.com/room/enpass)
+
+* [Sustah](https://tryhackme.com/room/sustah)
+
+* [KaffeeSec - SoMeSINT](https://tryhackme.com/room/somesint)
+
+* [Tokyo Ghoul](https://tryhackme.com/room/tokyoghoul666)
+
+* [Watcher](https://tryhackme.com/room/watcher)
+
+* [broker](https://tryhackme.com/room/broker)
+
+* [Inferno](https://tryhackme.com/room/inferno)
+
+* [VulnNet: dotpy](https://tryhackme.com/room/vulnnetdotpy)
+
+* [Wekor](https://tryhackme.com/room/wekorra)
+
+* [pyLon](https://tryhackme.com/room/pylonzf)
+
+* [The Great Escape](https://tryhackme.com/room/thegreatescape)
+
+* [SafeZone](https://tryhackme.com/room/safezone)
+
+* [NahamStore](https://tryhackme.com/room/nahamstore)
+
+* [Sweettooth Inc.](https://tryhackme.com/room/sweettoothinc)
+
+* [CMSpit](https://tryhackme.com/room/cmspit)
+
+* [Super-Spam](https://tryhackme.com/room/superspamr)
+
+* [That&#39;s The Ticket](https://tryhackme.com/room/thatstheticket)
+
+* [Debug](https://tryhackme.com/room/debug)
+
+* [Red Stone One Carat](https://tryhackme.com/room/redstoneonecarat)
+
+* [Cold VVars](https://tryhackme.com/room/coldvvars)
+
+* [Metamorphosis](https://tryhackme.com/room/metamorphosis)
+
+* [SQHell](https://tryhackme.com/room/sqhell)
+
+* [Fortress](https://tryhackme.com/room/fortress)
+
+* [CyberCrafted](https://tryhackme.com/room/cybercrafted)
+
+* [Road](https://tryhackme.com/room/road)
+
