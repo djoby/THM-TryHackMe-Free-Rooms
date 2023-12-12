@@ -38,5 +38,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[23 Hard CTF](23-Hard_CTF/README.md)** | **39** |
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
-| **Total Rooms:** | **= 378** |
+| **[26 Unsorted](26-Unsorted/README.me)** | **185** |
+| **Total Rooms:** | **= 561** |
 
