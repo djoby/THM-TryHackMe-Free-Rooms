@@ -1,21 +1,9 @@
-## Basic Rooms
----
-
 * [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
 * [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-
 * [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-
 * [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-
 * [Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
-
 * [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
-
 * [OpenVAS](https://tryhackme.com/room/openvas)
-
 * [ISO27001](https://tryhackme.com/room/iso27001)
-
 * [UltraTech](https://tryhackme.com/room/ultratech1)
-

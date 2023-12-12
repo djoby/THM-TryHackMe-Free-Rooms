@@ -1,23 +1,10 @@
-## Reconnaissance
----
-
 * [Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
-
 * [Active Reconnaissance](https://tryhackme.com/room/activerecon)
-
 * [Content Discovery](https://tryhackme.com/room/contentdiscovery)
-
 * [OhSINT](https://tryhackme.com/room/ohsint)
-
 * [Shodan.io](https://tryhackme.com/room/shodan)
-
 * [Google Dorking](https://tryhackme.com/room/googledorking)
-
 * [WebOSINT](https://tryhackme.com/room/webosint)
-
 * [Sakura Room](https://tryhackme.com/room/sakura)
-
 * [Red Team Recon](https://tryhackme.com/room/redteamrecon)
-
 * [Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
-

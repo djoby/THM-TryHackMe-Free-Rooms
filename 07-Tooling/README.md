@@ -1,37 +1,17 @@
-## Tooling
----
-
 * [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-
 * [Metasploit](https://tryhackme.com/room/rpmetasploit)
-
 * [tmux](https://tryhackme.com/room/rptmux)
-
 * [REmux The Tmux](https://tryhackme.com/room/tmuxremux)
-
 * [Hydra](https://tryhackme.com/room/hydra)
-
 * [Sublist3r](https://tryhackme.com/room/rpsublist3r)
-
 * [Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
-
 * [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
-
 * [Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
-
 * [RustScan](https://tryhackme.com/room/rustscan)
-
 * [Nessus](https://tryhackme.com/room/rpnessusredux)
-
 * [Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
-
 * [Nmap](https://tryhackme.com/room/furthernmap)
-
 * [TShark](https://tryhackme.com/room/tshark)
-
 * [ffuf](https://tryhackme.com/room/ffuf)
-
 * [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
-
 * [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
-

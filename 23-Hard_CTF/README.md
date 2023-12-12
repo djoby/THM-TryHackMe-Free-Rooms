@@ -1,81 +1,40 @@
-## Hard CTF
----
-
 * [Python Playground](https://tryhackme.com/room/pythonplayground)
   
 * [Motunui](https://tryhackme.com/room/motunui)
-
 * [Spring](https://tryhackme.com/room/spring)
-
 * [Brainpan 1](https://tryhackme.com/room/brainpan)
-
 * [Borderlands](https://tryhackme.com/room/borderlands)
-
 * [hc0n Christmas CTF](https://tryhackme.com/room/hc0nchristmasctf)
-
 * [Daily Bugle](https://tryhackme.com/room/dailybugle)
-
 * [Retro](https://tryhackme.com/room/retro)
-
 * [Jeff](https://tryhackme.com/room/jeff)
-
 * [Racetrack Bank](https://tryhackme.com/room/racetrackbank)
-
 * [Dave&#39;s Blog](https://tryhackme.com/room/davesblog)
-
 * [CherryBlossom](https://tryhackme.com/room/cherryblossom)
-
 * [CCT2019](https://tryhackme.com/room/cct2019)
-
 * [Iron Corp](https://tryhackme.com/room/ironcorp)
-
 * [Carpe Diem 1](https://tryhackme.com/room/carpediem1)
-
 * [Ra](https://tryhackme.com/room/ra)
-
 * [Year of the Fox](https://tryhackme.com/room/yotf)
-
 * [For Business Reasons](https://tryhackme.com/room/forbusinessreasons)
-
 * [Anonymous Playground](https://tryhackme.com/room/anonymousplayground)
-
 * [Misguided Ghosts](https://tryhackme.com/room/misguidedghosts)
-
 * [Theseus](https://tryhackme.com/room/theseus)
-
 * [Internal](https://tryhackme.com/room/internal)
-
 * [Year of the Dog](https://tryhackme.com/room/yearofthedog)
-
 * [You&#39;re in a cave](https://tryhackme.com/room/inacave)
-
 * [Year of the Owl](https://tryhackme.com/room/yearoftheowl)
-
 * [Year of the Pig](https://tryhackme.com/room/yearofthepig)
-
 * [envizon](https://tryhackme.com/room/envizon)
-
 * [GameBuzz](https://tryhackme.com/room/gamebuzz)
-
 * [Fusion Corp](https://tryhackme.com/room/fusioncorp)
-
 * [Crocc Crew](https://tryhackme.com/room/crocccrew)
-
 * [Uranium CTF](https://tryhackme.com/room/uranium)
-
 * [Year of the Jellyfish](https://tryhackme.com/room/yearofthejellyfish)
-
 * [Rocket](https://tryhackme.com/room/rocket)
-
 * [Squid Game](https://tryhackme.com/room/squidgameroom)
-
 * [EnterPrize](https://tryhackme.com/room/enterprize)
-
 * [Different CTF](https://tryhackme.com/room/adana)
-
 * [VulnNet: dotjar](https://tryhackme.com/room/vulnnetdotjar)
-
 * [M4tr1x: Exit Denied](https://tryhackme.com/room/m4tr1xexitdenied)
-
 * [Shaker](https://tryhackme.com/room/shaker)
-

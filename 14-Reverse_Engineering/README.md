@@ -1,25 +1,11 @@
-## Reverse Engineering
----
-
 * [Intro to x86-64](https://tryhackme.com/room/introtox8664)
-
 * [Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
-
 * [Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-
 * [Reversing ELF](https://tryhackme.com/room/reverselfiles)
-
 * [JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
-
-* https://tryhackme.com/room/ccradare
-
+* [CC: Radare](https://tryhackme.com/room/ccradare)
 * [CC: Radare2](https://tryhackme.com/room/ccradare2)
-
 * [CC: Ghidra](https://tryhackme.com/room/ccghidra)
-
 * [Aster](https://tryhackme.com/room/aster)
-
 * [Classic Passwd](https://tryhackme.com/room/classicpasswd)
-
 * [REloaded](https://tryhackme.com/room/reloaded)
-
