@@ -16,7 +16,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[04 Reconnaissance](04-Reconnaissance/README.md)** | **10** |
 | **[05 Scripting](05-Scripting/README.md)** | **6** |
 | **[06 Networking](06-Networking/README.md)** | **6** |
-| **[07 Tooling](07-Tooling/README.md)** | **17** |
+| **[07 Tooling](07-Tooling/README.md)** | **15** |
 | **[08 Crypto And Hashes](08-Crypto_And_Hashes/README.md)** | **5** |
 | **[09 Steganography](09-Steganography/README.md)** | **6** |
 | **[10 Web](10-Web/README.md)** | **27** |
@@ -36,5 +36,5 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
 | **[26 Unsorted](26-Unsorted/README.md)** | **184** |
-| **Total Rooms:** | **= 560** |
+| **Total Rooms:** | **= 558** |
 
