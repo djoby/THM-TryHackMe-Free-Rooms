@@ -21,7 +21,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[09 Steganography](09-Steganography/README.md)** | **4** |
 | **[10 Web](10-Web/README.md)** | **12** |
 | **[11 Android](11-Android/README.md)** | **1** |
-| **[12 Forensics](12-Forensics/README.md)** | **5** |
+| **[12 Forensics](12-Forensics/README.md)** | **4** |
 | **[13 Wifi Hacking](13-Wifi_Hacking/README.md)** | **1** |
 | **[14 Reverse Engineering](14-Reverse_Engineering/README.md)** | **11** |
 | **[15 Malware Analysis](15-Malware_Analysis/README.md)** | **6** |
@@ -36,5 +36,5 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
 | **[26 Unsorted](26-Unsorted/README.md)** | **184** |
-| **Total Rooms:** | **= 543** |
+| **Total Rooms:** | **= 542** |
 
