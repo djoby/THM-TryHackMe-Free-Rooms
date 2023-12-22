@@ -19,7 +19,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[07 Tooling](07-Tooling/README.md)** | **15** |
 | **[08 Crypto And Hashes](08-Crypto_And_Hashes/README.md)** | **5** |
 | **[09 Steganography](09-Steganography/README.md)** | **4** |
-| **[10 Web](10-Web/README.md)** | **20** |
+| **[10 Web](10-Web/README.md)** | **12** |
 | **[11 Android](11-Android/README.md)** | **1** |
 | **[12 Forensics](12-Forensics/README.md)** | **5** |
 | **[13 Wifi Hacking](13-Wifi_Hacking/README.md)** | **1** |
@@ -30,11 +30,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[18 Active Directory](18-Active_Directory/README.md)** | **5** |
 | **[19 PCAP Analysis](19-PCAP_Analysis/README.md)** | **4** |
 | **[20 Buffer Overflow](20-Buffer_Overflow/README.md)** | **4** |
-| **[21 Easy CTF](21-Easy_CTF/README.md)** | **58** |
+| **[21 Easy CTF](21-Easy_CTF/README.md)** | **61** |
 | **[22 Medium CTF](22-Medium_CTF/README.md)** | **73** |
 | **[23 Hard CTF](23-Hard_CTF/README.md)** | **39** |
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
 | **[26 Unsorted](26-Unsorted/README.md)** | **184** |
-| **Total Rooms:** | **= 548** |
+| **Total Rooms:** | **= 543** |
 
