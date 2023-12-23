@@ -23,7 +23,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[11 Android](11-Android/README.md)** | **1** |
 | **[12 Forensics](12-Forensics/README.md)** | **4** |
 | **[13 Wifi Hacking](13-Wifi_Hacking/README.md)** | **1** |
-| **[14 Reverse Engineering](14-Reverse_Engineering/README.md)** | **6** |
+| **[14 Reverse Engineering](14-Reverse_Engineering/README.md)** | **5** |
 | **[15 Malware Analysis](15-Malware_Analysis/README.md)** | **6** |
 | **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **13** |
 | **[17 Windows](17-Windows/README.md)** | **7** |
@@ -31,7 +31,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[19 PCAP Analysis](19-PCAP_Analysis/README.md)** | **4** |
 | **[20 Buffer Overflow](20-Buffer_Overflow/README.md)** | **4** |
 | **[21 Easy CTF](21-Easy_CTF/README.md)** | **61** |
-| **[22 Medium CTF](22-Medium_CTF/README.md)** | **73** |
+| **[22 Medium CTF](22-Medium_CTF/README.md)** | **74** |
 | **[23 Hard CTF](23-Hard_CTF/README.md)** | **39** |
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
