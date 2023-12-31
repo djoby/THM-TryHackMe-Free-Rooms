@@ -25,7 +25,7 @@ All the rooms mentioned here are free. ENJOY!!
 | **[13 Wifi Hacking](13-Wifi_Hacking/README.md)** | **1** |
 | **[14 Reverse Engineering](14-Reverse_Engineering/README.md)** | **5** |
 | **[15 Malware Analysis](15-Malware_Analysis/README.md)** | **6** |
-| **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **12** |
+| **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **11** |
 | **[17 Windows](17-Windows/README.md)** | **7** |
 | **[18 Active Directory](18-Active_Directory/README.md)** | **5** |
 | **[19 PCAP Analysis](19-PCAP_Analysis/README.md)** | **4** |
@@ -36,5 +36,5 @@ All the rooms mentioned here are free. ENJOY!!
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
 | **[26 Unsorted](26-Unsorted/README.md)** | **184** |
-| **Total Rooms:** | **= 537** |
+| **Total Rooms:** | **= 536** |
 
