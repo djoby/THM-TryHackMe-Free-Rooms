@@ -17,7 +17,7 @@ All the rooms mentioned here are free. ENJOY!!
 | **[05 Scripting](05-Scripting/README.md)** | **6** |
 | **[06 Networking](06-Networking/README.md)** | **6** |
 | **[07 Tooling](07-Tooling/README.md)** | **15** |
-| **[08 Crypto And Hashes](08-Crypto_And_Hashes/README.md)** | **5** |
+| **[08 Crypto And Hashes](08-Crypto_And_Hashes/README.md)** | **6** |
 | **[09 Steganography](09-Steganography/README.md)** | **4** |
 | **[10 Web](10-Web/README.md)** | **12** |
 | **[11 Android](11-Android/README.md)** | **1** |
@@ -25,7 +25,7 @@ All the rooms mentioned here are free. ENJOY!!
 | **[13 Wifi Hacking](13-Wifi_Hacking/README.md)** | **1** |
 | **[14 Reverse Engineering](14-Reverse_Engineering/README.md)** | **5** |
 | **[15 Malware Analysis](15-Malware_Analysis/README.md)** | **6** |
-| **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **11** |
+| **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **10** |
 | **[17 Windows](17-Windows/README.md)** | **7** |
 | **[18 Active Directory](18-Active_Directory/README.md)** | **5** |
 | **[19 PCAP Analysis](19-PCAP_Analysis/README.md)** | **4** |
