@@ -10,4 +10,3 @@
 * [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 * [Blaster](https://tryhackme.com/room/blaster)
 * [Kenobi](https://tryhackme.com/room/kenobi)
-* [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
