@@ -27,7 +27,7 @@ All the rooms mentioned here are free. ENJOY!!
 | **[15 Malware Analysis](15-Malware_Analysis/README.md)** | **6** |
 | **[16 Privilege Escalation](16-Privilege_Escalation/README.md)** | **10** |
 | **[17 Windows](17-Windows/README.md)** | **7** |
-| **[18 Active Directory](18-Active_Directory/README.md)** | **5** |
+| **[18 Active Directory](18-Active_Directory/README.md)** | **4** |
 | **[19 PCAP Analysis](19-PCAP_Analysis/README.md)** | **4** |
 | **[20 Buffer Overflow](20-Buffer_Overflow/README.md)** | **4** |
 | **[21 Easy CTF](21-Easy_CTF/README.md)** | **61** |
@@ -36,5 +36,5 @@ All the rooms mentioned here are free. ENJOY!!
 | **[24 Misc](24-Misc/README.md)** | **35** |
 | **[25 Special Events](25-Special_Events/README.md)** | **9** |
 | **[26 Unsorted](26-Unsorted/README.md)** | **184** |
-| **Total Rooms:** | **= 536** |
+| **Total Rooms:** | **= 535** |
 
